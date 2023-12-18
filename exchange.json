@@ -1,0 +1,10 @@
+{
+  "main": "OAS3rdPartyVCS.yaml",
+  "name": "OAS3rdPartyVCS",
+  "classifier": "oas",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "OAS3rdPartyVCS",
+  "version": "1.0.0"
+}
